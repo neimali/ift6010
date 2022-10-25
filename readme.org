@@ -8,15 +8,9 @@ DEADLINE: <2021-02-07 Sun>
 - file:./tex/projectproposal.tex
 - file:./tex/projectbibliography.bib
 
-** DONE explain transformer
 ** DONE explain BERT
 - [[https://www.youtube.com/watch?v=xI0HHN5XKDo][BERT Neural Network - EXPLAINED! - YouTube]]
-** DONE explain PLMs
-** DONE explain KD
-** DONE explain tinybert
-** TODO group KD, pruning and quantization under methods
-** TODO remove transformer section and pretrained language models as comments
-** TODO explain metrics
+
 
 * transformers
 ** Neural machine translation by jointly learning to align and translate
